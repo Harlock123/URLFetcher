@@ -5,13 +5,13 @@ this file covers how the code is put together.
 
 ## What this is
 
-A small Avalonia 11 desktop app on .NET 9 that scans a web page for image links (`<a href>` and `<img src>`) and
+A small Avalonia 11 desktop app on .NET 10 that scans a web page for image links (`<a href>` and `<img src>`) and
 downloads them into a chosen folder. MVVM with CommunityToolkit.Mvvm; HTML parsing with HtmlAgilityPack.
 
 ## Commands
 
 ```bash
-dotnet build URLFetcher.sln                  # needs the .NET 9 SDK; there is no global.json
+dotnet build URLFetcher.sln                  # needs the .NET 10 SDK; there is no global.json
 dotnet run --project URLFetcher              # no command-line arguments
 ```
 

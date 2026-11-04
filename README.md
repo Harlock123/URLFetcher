@@ -1,6 +1,6 @@
 # URL Fetcher
 
-A cross-platform desktop application built with .NET 9 and Avalonia UI that downloads images from web pages.
+A cross-platform desktop application built with .NET 10 and Avalonia UI that downloads images from web pages.
 
 ## Features
 
@@ -15,7 +15,7 @@ A cross-platform desktop application built with .NET 9 and Avalonia UI that down
 
 ## Requirements
 
-- .NET 9.0 SDK or later
+- .NET 10 SDK or later
 
 ## Building
 
